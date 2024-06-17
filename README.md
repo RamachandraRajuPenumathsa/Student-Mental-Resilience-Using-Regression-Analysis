@@ -2,8 +2,8 @@
 This project aims to analyze the mental health status of students based on various factors such as gender, age, course, year of study, CGPA, marital status, and whether they have sought specialist treatment. The dataset used in this project contains 101 instances and 11 features.
 Dataset Description
 
-# The dataset includes the following columns:
-##Timestamp##: The date and time when the data was recorded.
+The dataset includes the following columns:
+Timestamp: The date and time when the data was recorded.
 Gender: The gender of the student (Male/Female).
 Age: The age of the student.
 Course: The course the student is enrolled in.
