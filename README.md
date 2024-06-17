@@ -27,6 +27,8 @@ Steps Taken:
 ## Data Visualization
 To better understand the data we work with we use data visualization techniques. This includes using types of graphs and charts, like scatter plots to show relationships between variables histograms to display event frequencies heatmaps to illustrate correlations between variables line charts to track changes over time and bar charts, for comparing variables across groups.
 <img width="978" alt="Screenshot 2024-06-17 at 1 43 14 PM" src="https://github.com/VinithaReddyKondakalla90/My-ML-Projects/assets/41354589/cb8d967f-e78f-4735-a035-c9ae28b5eb70">
+<img width="732" alt="Screenshot 2024-06-17 at 1 44 01 PM" src="https://github.com/VinithaReddyKondakalla90/My-ML-Projects/assets/41354589/c1268cc2-8802-4f4d-bf4d-db9ef217b864">
+
 
 ## Model selection and training
 This project employs a suite of machine learning techniques tailored to address the classification task inherent in predicting mental health outcomes
