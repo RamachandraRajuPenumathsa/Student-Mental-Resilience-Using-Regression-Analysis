@@ -1,4 +1,4 @@
-# My-ML-Projects
+# Student Mental Resilience Using Regression Analysis
 This project aims to analyze the mental health status of students based on various factors such as gender, age, course, year of study, CGPA, marital status, and whether they have sought specialist treatment. The dataset used in this project contains 101 instances and 11 features.
 Dataset Description
 
